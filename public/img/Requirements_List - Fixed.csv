@@ -1,0 +1,43 @@
+﻿Work Item Type,Title,Priority
+Issue,Admin user login,3
+Issue,Admin user pwd change,3
+Issue,Admin change email,3
+Issue,User registration,3
+Issue,User change pwd,3
+Issue,User request password reset,3
+Issue,User change email,3
+Issue,New questionary,3
+Issue,Modify questionary,3
+Issue,Modify questionary activity,3
+Issue,Add new poll to questionary,3
+Issue,Poll type: rows for answer,3
+Issue,Poll type: pie graph for answers,3
+Issue,Admin user login,3
+Issue,VERIFICATION,3
+Issue,Setting background color,3
+Issue,Password recovery ,3
+Issue,Add Dark and Light mode,3
+Issue,Use React OR SOMETHING ELSE,3
+Issue,Save results as PDF,3
+Issue,Change the language,3
+Issue,Leave comments,1
+Issue,Share Poll,1
+Issue,File sharing,3
+Issue,Background music,3
+Issue,different kinds of poll formats,3
+Issue,Discussion forums,3
+Issue,QR code for Poll,3
+Issue,Login with the QR code scanning,3
+Issue,Search ,3
+Issue,Delete questions,3
+Issue,Add photos,3
+Issue,Data Backup and Recovery,3
+Issue,User Profile Customization,1
+Issue,SFTP,3
+Issue,Two-factor authentication,3
+Issue,Mobile Responsiveness,1
+Issue,Delete user,3
+Issue,Calender,3
+Issue,Form contact,3
+Issue,screen zoom functionality,3
+Issue,Page Refresh Functionality,3
